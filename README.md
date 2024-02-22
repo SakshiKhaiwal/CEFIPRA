@@ -4,10 +4,10 @@ The genomic and evolutionary landscape of drug resistance in budding yeast
 
 ### Summary:
 
-Antimicrobial drug resistance occurs when microbes such as bacteria or fungi evolve the ability to withstand drug treatment normally used to inhibit their growth. 
-This has become a big threat to public health with existing treatment methods being rendered ineffective by drug-resistant microbes. Drug resistance is a complex trait, which means it is controlled by a large number of genetic and environmental factors. To understand the relationship between genetic variations and drug resistance and to further identify the causal variants, a species-level survey is required. 
-
-In this project, we measured the growth rate and yield of 1011 clinical, domesticated, and wild-sequenced S. cerevisiae strains across six antifungals belonging to major antifungal classes. Genome-wide association studies on these traits can identify drug resistance to natural genetic variants. 
+Antimicrobial drug resistance occurs when microbes such as bacteria or fungi evolve over time and the antimicrobials – including antibiotics, antivirals, antifungals, and antiparasitics are no longer effective in inhibiting their growth.
+the ability to withstand drug treatment normally used to inhibit their growth. Antimicrobial resistance has been declared as one of the top public health threats. 
+In this project, we focus on understanding the genomic and evolutioary landscape of antifungal drug resistance. The main objective of this study is to understand the relationship between genetic variations and drug resistance and to identify the causal variants, a species-level survey is required. 
+We measured the growth rate and yield of 1011 clinical, domesticated, and wild-sequenced S. cerevisiae strains across six antifungals belonging to major antifungal classes. Genome-wide association studies on these traits were performed to identify drug resistance to natural genetic variants and some of the top candidates from these studies were validated experimentally.
 
 ### Data availability:
 Phenotypes data: Add data
@@ -16,6 +16,11 @@ GWAS output: Add data?
 
 ### Data and terms of use:
 **Note: The manuscript that marks the release of the phenotypic resources and their global description is in preparation. Please contact Gianni Liti (see below for contacts) if you are interested in using the data before they are formally release.**
+
+The data is available to academic users provided that such users agree:
+* Not to distribute the data to third parties 
+* Not to present or publish analysis of the data unless the data has been published in peer reviewed scientific journals by members of the consortium 
+* To reference the source of the data in a scientifically correct way when presented
 
 ### Contacts:
 * Dr. Gianni Liti: University of Nice, Institute for Research on Cancer and Ageing of Nice 
