@@ -6,8 +6,10 @@ The genomic and evolutionary landscape of drug resistance in budding yeast
 
 Antimicrobial drug resistance occurs when microbes such as bacteria or fungi evolve over time and the antimicrobials – including antibiotics, antivirals, antifungals, and antiparasitics are no longer effective in inhibiting their growth.
 the ability to withstand drug treatment normally used to inhibit their growth. Antimicrobial resistance has been declared as one of the top public health threats. 
+
 In this project, we focus on understanding the genomic and evolutioary landscape of antifungal drug resistance. The main objective of this study is to understand the relationship between genetic variations and drug resistance and to identify the causal variants, a species-level survey is required. 
-We measured the growth rate and yield of 1011 clinical, domesticated, and wild-sequenced S. cerevisiae strains across six antifungals belonging to major antifungal classes. Genome-wide association studies on these traits were performed to identify drug resistance to natural genetic variants and some of the top candidates from these studies were validated experimentally.
+
+To this end, we measured the growth rate and yield of 1011 clinical, domesticated, and wild-sequenced S. cerevisiae strains across six antifungals belonging to major antifungal classes. Genome-wide association studies on these traits were performed to identify drug resistance to natural genetic variants and some of the top candidates from these studies were validated experimentally.
 
 ### Data availability:
 Phenotypes data: Add data
