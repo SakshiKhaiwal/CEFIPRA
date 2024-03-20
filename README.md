@@ -12,9 +12,9 @@ In this project, we focus on understanding the genomic and evolutioary landscape
 To this end, we measured the growth rate and yield of 1011 clinical, domesticated, and wild-sequenced S. cerevisiae strains across six antifungals belonging to major antifungal classes. Genome-wide association studies on these traits were performed to identify drug resistance to natural genetic variants and some of the top candidates from these studies were validated experimentally.
 
 ### Data availability:
-Phenotypes data: Add data
+Phenotypes data: https://github.com/SakshiKhaiwal/CEFIPRA/blob/ea6eec6da13f2bcae0b52233496246eb8348601f/Data/Phenotype_data_antifungal_resistance.csv
 
-GWAS output: Add data?
+GWAS output: https://github.com/SakshiKhaiwal/CEFIPRA/blob/ea6eec6da13f2bcae0b52233496246eb8348601f/Data/GWAS_results.csv
 
 ### Data and terms of use:
 **Note: The manuscript that marks the release of the phenotypic resources and their global description is in preparation. Please contact Gianni Liti (see below for contacts) if you are interested in using the data before they are formally release.**
