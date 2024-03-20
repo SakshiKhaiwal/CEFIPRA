@@ -1,5 +1,5 @@
 #### ***WORK IN PROGRESS***
-# CEFIPRA 
+# Antifungal drug resistance (CEFIPRA funded)
 The genomic and evolutionary landscape of drug resistance in budding yeast
 
 ### Summary:
