@@ -17,8 +17,8 @@ Phenotypes data: https://github.com/SakshiKhaiwal/CEFIPRA/blob/ea6eec6da13f2bcae
 GWAS output: https://github.com/SakshiKhaiwal/CEFIPRA/blob/ea6eec6da13f2bcae0b52233496246eb8348601f/Data/GWAS_results.csv
 
 AIM29 validation: 
-https://github.com/SakshiKhaiwal/CEFIPRA/blob/8f8bad29dbf84631e0e929d007f540b55ebe9e12/Data/AIM29_validation_GT.csv
-https://github.com/SakshiKhaiwal/CEFIPRA/blob/8f8bad29dbf84631e0e929d007f540b55ebe9e12/Data/Aim29_validation_solid_yield.csv
+https://github.com/SakshiKhaiwal/CEFIPRA/blob/9c3f9d270eba5b3345aa59179ab20b4a87bc8d99/Data/AIM29_validation_GT.xlsx
+https://github.com/SakshiKhaiwal/CEFIPRA/blob/9c3f9d270eba5b3345aa59179ab20b4a87bc8d99/Data/Aim29_validation_Yield.xlsx
 
 ### Data and terms of use:
 **Note: The manuscript that marks the release of the phenotypic resources and their global description is in preparation. Please contact Gianni Liti (see below for contacts) if you are interested in using the data before they are formally release.**
